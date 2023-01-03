@@ -30,8 +30,16 @@ Estudando Soft skills do QA
    <dd> Ganha-Ganha </dd>
    
 <dt>Empatia</dt>
-<dd> - </dd>
-<dd> - </dd>
+<dd> Se coloar no lugar do outro </dd>
+<dd> Entender </dd>
+   <dir>Dejesos</dir>
+   <dir>NEcessidades</dir>
+    <dir>Dores</dir>
+    <dir>Restrições</dir>
+    <dir>Preferencias</dir>
+    <dir>Habitos e Costumes</dir>
+    <dir>Crenças</dir>
+   
 
 <dt> Trabalhar em Equipe</dt>
 
