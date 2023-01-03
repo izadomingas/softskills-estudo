@@ -17,7 +17,13 @@ Estudando Soft skills do QA
 <dd> Escrever </dd>
 <dd> Desenhar </dd>
 <dd> Interpretar </dd>
+<dir> Diagramas</dir>
+<dir> Gestos</dir>
+<dir> Outros</dir>
 <dd> Você não pode ser só um portador de más noticias </dd>
+<dd>Difundir a Cultura da Qualidade </dd>
+<dd> Ajudar a Prevenir Defeitos </dd>
+<dd> Pessimista Profissional </dd>
 <dt>Negociação</dt>
 <dt>Empatia</dt>
 <dd> - </dd>
