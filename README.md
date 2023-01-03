@@ -25,6 +25,10 @@ Estudando Soft skills do QA
 <dd> Ajudar a Prevenir Defeitos </dd>
 <dd> Pessimista Profissional </dd>
 <dt>Negociação</dt>
+ <dd> Prazos </dd>
+<dd> Recursos </dd>
+   <dd> Ganha-Ganha </dd>
+   
 <dt>Empatia</dt>
 <dd> - </dd>
 <dd> - </dd>
