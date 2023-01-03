@@ -42,6 +42,9 @@ Estudando Soft skills do QA
    
 
 <dt> Trabalhar em Equipe</dt>
+<dd> Reuniões </dd>
+<dd> Colaborar </dd>   
+   
 
 </dl>
 </body>
